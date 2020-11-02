@@ -1,5 +1,8 @@
-- date: 30. October 2020
+- date: October 30, 2020
   headline: "Anomaly detection conference paper accepted for a talk at <a href='https://ml4physicalsciences.github.io/2020/'>the NeurIPS ML for Physical Science</a> conference!"
 
-# - date: 29. September 2020
-#   headline: "TGB paper (led by ICFO and Geneva) is in <a href='https://www.nature.com/articles/s41567-020-01041-x'>Nature Physics</a>! See also coverage by Dorine Schenk in <a href='https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840'  >NRC</a>"
+- date: September 3, 2020
+  headline: "Anomaly detection paper (with Ben Nachman & Kees Bekendorfer) submitted to Physical Review D! <a href='https://arxiv.org/abs/2009.02205'>(arxiv version here)</a>"
+
+# - date: March 3, 2020
+#   headline: "Anomaly detection paper (with Ben Nachman & Kees Bekendorfer) submitted to Physical Review D! <a href='https://arxiv.org/abs/2009.02205'>(arxiv version here)</a>"
