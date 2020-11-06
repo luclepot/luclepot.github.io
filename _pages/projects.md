@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: projects (in progress)
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: research and work projects over the course of my undergraduate degree.
 nav: true
 ---
 
