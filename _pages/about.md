@@ -15,8 +15,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I like physics research, data science work, music, and going fast downhill.
+I like physics research, data science work, music, and going fast down things.
 
 I'm in the process of applying for graduate schools with the intention of pursuing a PHD in high-energy particle physics. I hope to use my dual backgrounds in physics research and machine learning to contribute to collaborations across a wide variety of physical science disciplines.
 
-Feel free to check out my [research projects](/projects/), the [publications & presentations](/publications/) which resulted from them, or my [personal projects](/personal/).
+Check out my [research projects](/projects/), the [publications & presentations](/publications/) which resulted from them, or my [personal projects](/personal/).

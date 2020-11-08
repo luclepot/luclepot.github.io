@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects (in progress)
+title: projects
 permalink: /projects/
-description: research and work projects over the course of my undergraduate degree.
+description: my research and work projects
 nav: true
 ---
 
