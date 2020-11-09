@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Computer Vision Camera Targeting System
+title: Computer Vision Target Positioning System
 description: Research project with Prof. Wolfgang Lorenzon, in the University of Michigan MUSE Group
 img: /assets/img/muse_cam.jpg
 importance: 4

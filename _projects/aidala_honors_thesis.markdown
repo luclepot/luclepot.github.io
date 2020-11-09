@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Aidala Group Hardware/Honors Thesis
-description: Member of Christine Aidala's research group at the University of Michigan
+title: sPhenix hardware testing
+description: Research project / honors thesis work with University of Michigan professor Christine Aidala
 img: /assets/img/aidala_sipms.PNG
 importance: 2
 ---

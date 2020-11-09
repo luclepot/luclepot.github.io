@@ -1,10 +1,43 @@
 ---
 layout: page
-title: ATLAS Anomaly Detection
+title: Dijet Anomaly Detection
 description: Ongoing research project with Ben Nachman, in the Lawrence Berkeley National Lab ATLAS group
 img: /assets/img/ATLAS_anomaly_detection.png
 importance: 1
 ---
+
+**Contents**
+
+* [overview](#overview)
+* [personal contributions](#personal-contributions)
+
+## overview
+
+Machine learning is becoming an increasingly popular method of searching for new physics signals at the Large Hadron Collider. One of the most important of these searches is that for resonant new physics, in which a signal is localized to some region of the invariant mass spectrum. A classical "bump hunt" can then be performed to search for this signal in the mass spectrum, as was done to find the Higgs Boson.
+
+In this project, we use machine learning to enhance the visibility of such bumps, using the recently proposed methods [SALAD](https://arxiv.org/ct?url=https%3A%2F%2Fdx.doi.org%2F10.1103%2FPhysRevD.101.095004&v=ee41f256) and [CWOLA](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.014038).
+
+## personal contributions
+
+I joined this project along with Kees Benkendorfer in the spring of 2020, with funding from the [SULI program](https://science.osti.gov/wdts/suli). My work concerned taking the SALAD and CWOLA algorithms -- methods recently developed by my mentor, Ben Nachman -- and test them rigorously. This included
+
+* Reimplementing them and verifying their initial results
+* Applying SALAD to real ATLAS group data
+* Checking SALAD's response to data correlations
+* Quantifying SALAD's ability to estimate the signal-region background
+
+All of these tasks are implemented in Python, using Keras/Tensorflow for the machine learning. This work served the purpose of clarifying the performance of SALAD, working out several bugs and workarounds in its implementation, and preparing it for large-scale application to ATLAS group data in a dedicated search.
+
+A paper on our work since this Spring has been accepted to the 2020 NeurIPS conference (Machine Learning for the Physical Sciences workshop), which I will be presenting. This work has also been [submitted to the journal PRD](https://arxiv.org/abs/2009.02205) for review.
+
+A majority of the results from this project cannot be displayed here, since they are internal to the ATLAS group. For all of the following plots, I use the [**Pythia and Herwig based simulations from the 2020 LHC Olympics**](https://indico.cern.ch/event/809820/page/16782-lhcolympics2020-rd).
+
+## analysis
+
+### the SALAD algorithm
+
+
+
 <!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
