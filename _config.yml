@@ -115,6 +115,7 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-sitemap
   # - bootstrap
   # - material-sass
 
