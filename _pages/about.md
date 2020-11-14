@@ -6,7 +6,7 @@ description: University of Michigan Physics & CS Student. Interested in research
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ppic.JPG
   address: >
     <p>Ann Arbor, Michigan</p>
 
