@@ -2,7 +2,7 @@
 layout: page
 title: Dijet Anomaly Detection
 description: Ongoing research project with Ben Nachman, in the Lawrence Berkeley National Lab ATLAS group
-img: /assets/img/ATLAS_anomaly_detection.png
+img: /assets/img/aad/ATLAS_anomaly_detection.png
 importance: 1
 ---
 
@@ -31,6 +31,7 @@ All of these tasks are implemented in Python, using Keras/Tensorflow for the mac
 A paper on our work since this Spring has been accepted to the 2020 NeurIPS conference (Machine Learning for the Physical Sciences workshop), which I will be presenting. This work has also been [submitted to the journal PRD](https://arxiv.org/abs/2009.02205) for review.
 
 A majority of the results from this project cannot be displayed here, since they are internal to the ATLAS group. For all of the following plots, I use the [**Pythia and Herwig based simulations from the 2020 LHC Olympics**](https://indico.cern.ch/event/809820/page/16782-lhcolympics2020-rd).
+
 
 ## analysis
 

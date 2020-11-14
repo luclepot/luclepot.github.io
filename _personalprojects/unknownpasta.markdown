@@ -1,10 +1,14 @@
 ---
 layout: page
-title: MadMiner Scripting Utility
-description: Research project with CERN Research Scientest Tancredi Carli, in the CERN ATLAS group
-img: /assets/img/mmsc/mmsc_description.png
+title: unknown pasta 
+description: turning text into that one joy division album cover
+
+img: /assets/img/pasta/porto.png
 importance: 3
 ---
+
+
+
 <!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

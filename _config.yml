@@ -58,7 +58,7 @@ google_analytics: G-D4NKPTT5BT # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: notes # your blog must have a name for it to show up in the nav bar
+blog_name: # your blog must have a name for it to show up in the nav bar
 blog_description: empty note blog! TODO
 permalink: /notes/:year/:title/  
 
@@ -82,6 +82,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  personalprojects:
+    output: true
+    permalink: /personal/:path/
 
 news_limit: 5
 

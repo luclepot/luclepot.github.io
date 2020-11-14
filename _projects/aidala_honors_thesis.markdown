@@ -2,7 +2,7 @@
 layout: page
 title: sPhenix hardware testing
 description: Research project / honors thesis work with University of Michigan professor Christine Aidala
-img: /assets/img/aidala_sipms.PNG
+img: /assets/img/aidala/aidala_sipms.PNG
 importance: 2
 ---
 <!-- 

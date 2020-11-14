@@ -3,7 +3,7 @@ layout: page
 title: student achievement gap analyses
 description: Ongoing data science fellowship with the University of Michigan Center for Academic Innovation
 
-img: /assets/img/umai_plot.jpg
+img: /assets/img/ai/umai_plot.jpg
 importance: 2
 ---
 UNDER CONSTRUCTION!!

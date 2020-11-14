@@ -2,7 +2,7 @@
 layout: page
 title: Autoencoders for Semi-Visible Jet Detection
 description: Ongoing research project with Annapaola de Cosa and Maurizio Pierini, in the University of Zurich CMS Group
-img: /assets/img/autoencodeSVJ.png
+img: /assets/img/SVJ/autoencodeSVJ.png
 importance: 2
 ---
 

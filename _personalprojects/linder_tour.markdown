@@ -1,10 +1,14 @@
 ---
 layout: page
-title: MadMiner Scripting Utility
-description: Research project with CERN Research Scientest Tancredi Carli, in the CERN ATLAS group
-img: /assets/img/mmsc/mmsc_description.png
-importance: 3
+title: linder cooperative
+description: Student cooperative & my home :-)
+
+img: /assets/img/linder/tile.jpg
+importance: 5
 ---
+
+
+
 <!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

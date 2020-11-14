@@ -1,10 +1,59 @@
 ---
 layout: page
-title: MadMiner Scripting Utility
-description: Research project with CERN Research Scientest Tancredi Carli, in the CERN ATLAS group
-img: /assets/img/mmsc/mmsc_description.png
-importance: 3
+title: JC3 
+description: jazz quartet from high school
+
+img: /assets/img/jc3/jc3.png
+importance: 2
 ---
+
+## background 
+
+My friends and I formed this group shortly after we began busking in downtown ann arbor. It consisted of guitarist Julian Stockton, drummer [Aaron Willette](https://aawill.github.io/), & bassist Seamus Lynch.
+
+We started busking out of high school boredom and found that people were surprisingly receptive to our _extremely_ average straight-ahead jazz. This resulted in us making a generous amount in tips & starting being asked to play at various events (weddings, bars, restaurants, etc.). We also ended up being the house band for a new bar/restaurant in Saline, Salt Springs, from 2015-2016. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/jc3/busking_1.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/jc3/busking_2.jpg' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Busking downtown w/other friends (left) and as a group (right) 
+</div>
+
+The name, **Jefferson Court Trio**, was mostly meant to confuse people (but there's 4 of you!) and get us hired for weddings.
+
+I played piano and managed our gigs, website, and online recordings. All of this is still on our [website](https://jeffersoncourttrio.weebly.com/), which is still up even though we don't play formally as a group anymore. In hindsight, we were probably significantly undercutting the local prices for jazz musicians, which I feel bad about now. In the moment we were just excited to be making more than $10/hour.
+
+
+## music
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/5u7AEOhg9jA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/DPvn8ZMYZwI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/JoM3C26izYM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe src="https://drive.google.com/file/d/0B8bBvIlDS5cqWnoyR3BHWFlWMXBHZEtiVUZjYXFhUGNMeWxn/preview" width="350" height="200"></iframe>
+    </div>
+</div>
+
+<div class="caption">
+    Video of us busking (bottom right) and some other fun recordings we made 
+</div>
+
 <!-- 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
