@@ -3,7 +3,7 @@ layout: page
 title: linder cooperative
 description: Student cooperative & my home :-)
 
-img: /assets/img/linder/tile.jpg
+img: /assets/img/linder/tile.JPG
 importance: 5
 ---
 

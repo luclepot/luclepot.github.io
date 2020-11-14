@@ -3,7 +3,7 @@ layout: page
 title: Earl Grey
 description: dad rock/for fun band from high school
 
-img: /assets/img/egtb/colorado.jpg
+img: /assets/img/egtb/colorado.JPG
 importance: 1
 ---
 
