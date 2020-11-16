@@ -2,12 +2,21 @@
 layout: page
 permalink: /personal/
 title: personal
-description: music, photos, and social things!
+description: music, co-op and coding projects
 
 nav: true
 ---
 
-personallllll pageeee!
+## quick info
+
+* I am from Ann Arbor, MI, but I am a dual French/US citizen
+* I have been playing instruments and recording music since I was in middle school, and consider it a really important part of my life
+* I believe that housing is a human right and actively participate in local organizing efforts to assert that right for both myself and others
+* I am very supportive of housing cooperatives, and have lived in them for four years
+* I really like all kinds of skiing (downhill, x-country, backcountry)
+* I will never turn on the overhead light in a room if there is a lamp I could use instead
+
+## personal project pages
 
 <div class="projects grid">
 

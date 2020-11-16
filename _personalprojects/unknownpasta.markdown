@@ -1,11 +1,57 @@
 ---
 layout: page
 title: coding projects
-description: overview of my side-projects
+description: some side projects
 
 img: /assets/img/pasta/porto.png
 importance: 3
 ---
+
+## unknownpasta
+
+I made this to answer the age old question, *what if we could make [that one Joy Division album cover](https://www.google.com/search?q=unknown+pleasures+album+cover&tbm=isch&ved=2ahUKEwit2qy4wYbtAhUKYawKHdOODdwQ2-cCegQIABAA&oq=unknown+pleasures++albu&gs_lcp=CgNpbWcQARgAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyBggAEAUQHjIGCAAQBRAeOgQIABBDOgYIABAIEB46BAgAEBhQoRxY_yxg-zNoA3AAeAGAAWiIAY4FkgEDOC4xmAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=LSayX-2PHIrCsQXTnbbgDQ&bih=1231&biw=1279&rlz=1C1ONGR_enUS927US927) out of text?*
+
+Well, [here](https://github.com/luclepot/unknownpasta) is a Python module which does just that. You input a string of text and a series of parameters, and the program outputs a joy-division-esque logo. The program generates a new logo every time, since it is based on iterative random modeling of the original.
+
+The results:
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pasta/normal.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pasta/porto.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/pasta/weird.png' | relative_url }}" alt="" title="example image"/>
+    </div>
+</div>
+<div class="caption">
+    Original, text-based, and messed up. Text in the middle one is a message from a distraught friend after Brazil lost 7-1 to Germany in the world cup.  
+</div>
+
+## synefind
+
+[this](https://github.com/luclepot/synefind) was a project a friend and I thought of a few years ago. The basic problem we wanted to solve was this:
+
+* we liked synthesizers, especially those in the music we listened to
+* we wanted to emulate voicings on our own synths / digital synths
+* finding the exact combination of parameters to make a tone is *very* hard
+
+I had several ideas for solutions, and while none panned out, it was a great learning experience. The most promising idea was to use some generative density estimation model (GAN, VAE, etc.) to learn a reversible mapping from input parameters to output waveform.
+
+It turns out that it is very hard to effectively train generative models on synthesizer waveforms, even after transforming and processing them endlessly. The models which worked best were not good for the target purpose (backtracking to synth parameters) but they did work decently in a generative capacity. 
+
+More importantly, the data processing yielded cool plots:
+
+<div class="col justify-content-sm-center">
+    <img class="mx-auto rounded d-block z-depth-1 w-75" src="{{ '/assets/img/pasta/synths_cut.png' | relative_url }}" alt="" title="meeting"/>
+    <div class="caption">
+        time-frequency visualization of some synth waveforms
+    </div>
+</div>
+
+Since first attempting this project I have gained a lot of experience working on ML projects, and I actually think this idea would be viable using a combination of more advanced (and easily convergent) techniques.
 
 <!-- ---
 layout: page

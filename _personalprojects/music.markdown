@@ -1,12 +1,12 @@
 ---
 layout: page
-title: solo music
+title: other music
 description: slowly growing collection of personal music projects & gear
 img: /assets/img/music/keys.jpg
 importance: 5
 ---
 
-I am lucky enough to have been lent a rhodes piano by a friend of mine from california, with the stipulation that I need to give it back sometime soon.
+I am lucky enough to have been lent a rhodes piano by a friend of mine, with the stipulation that I need to give it back someday.
 
 <!-- ![image](/assets/img/music/travel.jpg){: style="float: right; margin-left: 1em;" width="60%"} -->
 
@@ -15,21 +15,21 @@ I am lucky enough to have been lent a rhodes piano by a friend of mine from cali
     <div class="col-md-6">
       <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/music/travel.jpg' | relative_url }}" alt="" title="returning to michigan"/>
       <div class="caption">
-        returning the piano to michigan with some family/friends (and testing it on the way!)
+        returning the piano to michigan with some family/friends (and testing it on the way)
       </div>
     </div>
     <div class="col-md-6">
       <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/music/setup.JPG' | relative_url }}" alt="" title="music setup"/>
       <div class="caption">
-        "studio" setup and temporary piano home
+        "studio" setup and piano home
       </div>
     </div>
   </div>
 </div>
 
-It is, without a doubt the most enjoyable instrument I've ever encountered; in many ways it has changed the way I think about music and harmony. Rhodes sound fundamentally different from acoustic pianos in a way that has helped me think differently about chord voicings and rhythm. I've also tinkered with/learned a lot about the piano's action, tone generation, and voicing.
+It is without a doubt the most enjoyable instrument I've ever played; in many ways it has changed the way I think about harmony. Electric pianos sound fundamentally different from acoustic pianos in a way that has helped me think differently about chord voicings and rhythm. I've also learned a lot about the piano's action, tone generation, and voicing by doing maintenance & repairs.
 
-As a result of all this I've spent more time trying to learn how to record/produce my own music. As of right now I am not very good at it, though I'm learning slowly. This kind of illustrates my learning process :-)
+All of this has had me spending more time learning to record/produce my own music. As of right now I am not very good at it, though I'm learning :-)
 
 <iframe width="100%" height="160" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/929973880&color=%23b4c4c4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/luclepot" title="LUC" target="_blank" style="color: #cccccc; text-decoration: none;">LUC</a> · <a href="https://soundcloud.com/luclepot/lobster-mushrooms" title="lobster mushrooms" target="_blank" style="color: #cccccc; text-decoration: none;">lobster mushrooms</a></div>
 

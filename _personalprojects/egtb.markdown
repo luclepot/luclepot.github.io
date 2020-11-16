@@ -1,13 +1,35 @@
 ---
 layout: page
 title: Earl Grey
-description: high school era rock band
+description: high school era dad-rock band
 
 img: /assets/img/egtb/colorado.JPG
 importance: 4
 ---
 
+## background
 
+This band (variously known as Earl Grey and Earl Grey and the Teabag Experiment, among others) was a rock-ish band I started in 8th grade with my friend Aaron.
+
+We did not take ourselves too seriously and recorded a lot of *very* classic music. I usually played bass and keyboards/synthesizers (thank you AADL instrument rental program!)
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/7vfysfWzEJo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/zGY7mF9iutE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/Gl432mznVfc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <iframe width="350" height="200" src="https://www.youtube.com/embed/mz72Fn1AowU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+</div>
 
 <!-- 
 Every project has a beautiful feature showcase page.

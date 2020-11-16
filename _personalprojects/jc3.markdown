@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JC3 
-description: jazz quartet from high school
+description: jazz group from high school
 
 img: /assets/img/jc3/jc3.png
 importance: 1
