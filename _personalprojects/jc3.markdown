@@ -4,7 +4,7 @@ title: JC3
 description: jazz quartet from high school
 
 img: /assets/img/jc3/jc3.png
-importance: 2
+importance: 1
 ---
 
 ## background 
@@ -51,7 +51,7 @@ I played piano and managed our gigs, website, and online recordings. All of this
 </div>
 
 <div class="caption">
-    Video of us busking (bottom right) and some other fun recordings we made 
+    Video of us busking (bottom right) and some other recordings (all produced by Aaron)
 </div>
 
 <!-- 

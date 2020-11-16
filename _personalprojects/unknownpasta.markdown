@@ -1,13 +1,19 @@
 ---
 layout: page
-title: unknown pasta 
-description: turning text into that one joy division album cover
+title: coding projects
+description: overview of my side-projects
 
 img: /assets/img/pasta/porto.png
 importance: 3
 ---
 
-
+<!-- ---
+layout: page
+title: synefind
+description: machine learning synthesizer parameters, with plugins
+img: /assets/img/synefind/synths_cut.png
+importance: 4
+--- -->
 
 <!-- 
 Every project has a beautiful feature showcase page.
