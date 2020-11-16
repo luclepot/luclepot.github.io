@@ -19,7 +19,7 @@ I am lucky enough to have been lent a rhodes piano by a friend of mine from cali
       </div>
     </div>
     <div class="col-md-6">
-      <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/music/setup.jpg' | relative_url }}" alt="" title="music setup"/>
+      <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/music/setup.JPG' | relative_url }}" alt="" title="music setup"/>
       <div class="caption">
         "studio" setup and temporary piano home
       </div>
