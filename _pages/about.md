@@ -7,8 +7,6 @@ description: University of Michigan Physics & CS Student. Interested in research
 profile:
   align: right
   image: ppic.JPG
-  address: >
-    <p>Ann Arbor, Michigan</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
