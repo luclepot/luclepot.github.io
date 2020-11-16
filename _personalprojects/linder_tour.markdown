@@ -91,14 +91,20 @@ This work generally takes anywhere from 2-6 hours per week -- averaging towards 
 
 Around september 2020, Shani and I were asked to make a video to give a tour of our house (in lieu of physical tours). Other house members took interest in helping, so we delegated the task to the two most excited (and overly-qualified) people, Kavin and Aiden. 
 
-They did an absolutely **amazing** job, and basically filmed a series of super short sitcom shots. I helped with some of the music, writing a half dozen short tracks (half of which were used). 
+They did an absolutely **amazing** job, and basically filmed a series of super short sitcom shots. I helped with some of the music, writing a half dozen short tracks (half of which were used).
 
-For production see [here](/personal/music)
+The full set of tracks and completed video are below :-)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1161755746&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/luclepot" title="LUC" target="_blank" style="color: #cccccc; text-decoration: none;">LUC</a> · <a href="https://soundcloud.com/luclepot/sets/linder-house-tour-2020" title="Linder House Tour 2020" target="_blank" style="color: #cccccc; text-decoration: none;">Linder House Tour 2020</a></div>
-<div class="caption">
-    all songs made for the tour!!
+
+<div class="col justify-content-sm-center"> 
+    <iframe class="mx-auto rounded d-block z-depth-1" width="560" height="315" src="https://www.youtube.com/embed/uafM-Pxz7fI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <div class="caption">
+        combined house meeting/bonfire
+    </div>
 </div>
+
 
 <!-- 
 Every project has a beautiful feature showcase page.
