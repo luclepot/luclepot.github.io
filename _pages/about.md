@@ -15,6 +15,6 @@ social: true  # includes social icons at the bottom of the page
 
 I like physics research, data science, music, and going fast down things.
 
-Included in this website is my [research and work projects](/projects/), the [publications & presentations](/publications/) which resulted from them, and some [personal projects](/personal/).
+Included in this website is my [**research and work projects**](/projects/), the [**publications & presentations**](/publications/) which resulted from them, and some [**personal projects**](/personal/).
 
 I'm in the process of applying for **PHD programs in high energy particle physics**. My background in both physics research and data science makes me well suited to contribute to collaborations across a wide variety of physical science disciplines.

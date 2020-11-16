@@ -45,14 +45,13 @@ We represent each jet as a feature vector, comprised of 19 position, energy, and
 
 The autoencoder architecture used in this analysis is shown below:
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm mt-2 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/autoencodeSVJ.png' | relative_url }}" alt="" title="example image"/>
+<div class="col justify-content-sm-center">
+    <img class="mx-auto rounded d-block z-depth-1 w-65" src="{{ '/assets/img/SVJ/autoencodeSVJ.png' | relative_url }}" alt="" title="meeting"/>
+    <div class="caption">
+        Autoencoder architecture for this analysis
     </div>
 </div>
-<div class="caption">
-    Autoencoder architecture for this analysis
-</div>
+
 
 The full analysis proceeds as follows:
 
