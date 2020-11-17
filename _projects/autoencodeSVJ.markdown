@@ -118,20 +118,4 @@ While this work has shown significant promise in detecting Semi-Visible jet sign
 
 * Testing how signal identification changes as signal is injected into the training sample, and after which point the AEs will learn the signal patterns
 
-* Testing the ability of neural autoencoders to learn detector defects and other experimental quirks; this would be done by programming "defective" hardware elements into our simulations. This gives purpose to the inclusion of jet position ($$\eta$$ and $$\phi$$) in the jet features. 
-
-<!-- The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-``` -->
+* Testing the ability of neural autoencoders to learn detector defects and other experimental quirks; this would be done by programming "defective" hardware elements into our simulations. This gives purpose to the inclusion of jet position ($$\eta$$ and $$\phi$$) in the jet features.
