@@ -38,7 +38,7 @@ This is illustrated below by both a successful and failed scenario. For the case
 To facilitate quick testing of new signal models, I developed a command line program and python module, located [**here on github**](https://github.com/luclepot/mm_scripting_util). A screenshot of the program in action is shown below; it facilitats training, evaluation, and data/results visualization.
 
 <div class="col justify-content-sm-center">
-    <img class="mx-auto rounded d-block z-depth-1 w-65" src="{{ '/assets/img/mmsc/mmsc_description.png' | relative_url }}" alt="" title="cli"/>
+    <img class="mx-auto rounded d-block z-depth-1 w-75" src="{{ '/assets/img/mmsc/mmsc_description.png' | relative_url }}" alt="" title="cli"/>
     <div class="caption">
         command line interface
     </div>
