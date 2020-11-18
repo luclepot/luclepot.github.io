@@ -6,7 +6,28 @@ description: Ongoing data science fellowship with the University of Michigan Cen
 img: /assets/img/ai/umai_plot.jpg
 importance: 2
 ---
-UNDER CONSTRUCTION!!
+
+## hiring process
+
+In the spring of 2019, I was interested in different ways of collecting data online, mostly using Python. I developed a number of web scraping projects, with focus ranging from flight data to college course statistics.
+
+In one such project, I collected data provided by the UM Center for Academic Innovation regarding course evaluations. I did so because while the [website on which the data was hosted](https://atlas.ai.umich.edu/) provided some intuition of the data, I was interested in making my own visualizations comparing many courses in aggregate. Unfortunately, my code had a bad interaction with the website's database, causing it to crash multiple times and my umich account to be suspended.
+
+I was contacted by an administrator who at first reprimanded me, and then asked what I was using the data for in the first place. I showed him some of my plots and he suggested that I apply to work officially with him as a data science fellow, through the [**University of Michigan's Center for Academic Innovation**](https://ai.umich.edu/) (CAI). I began working in the fall of 2019.
+
+## personal contributions
+
+As a data science fellow, I work in collaboration with a number of data scientists, school administrators, and sociology professors. My main focus is to quantify and explain the effect (or lack thereof) of the online learning tools provided by CAI on student performance. **I am particularly interested in learning more about the way that the "helpfulness" of such tools changes based on student demographics such as race, gender identification, and family income.** I believe that these questions are key to better understanding how institutions such as the University of Michigan can adapt themselves to better accommodate underserved communities.
+
+Since this data is highly sensitive, I am by federal law unable to share it (or any visualizations I make of it) publicly. However, I can talk about some of the non-specifics of the work I do.
+
+**The analysis I am currently working on focuses on the impact of the [ATLAS tool](https://atlas.ai.umich.edu/) on student performance, and how this tool either alleviates or worsens disparities in student performance along demographic lines**. Much of this work is done in collaboration with a professor of sociology at the University of Michigan.
+
+Day-to-day work consists mainly of
+
+* processing and cleaning large (100 gb) files of student course, demographic, & enrollment information
+* meeting with administrative and sociologist coworkers to discuss our current understanding and develop specific research questions to pursue
+* designing Python visualizations which provide precise answers (or at least add clarification) to these research questions
 
 <!-- 
 Every project has a beautiful feature showcase page.
