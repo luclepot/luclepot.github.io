@@ -99,7 +99,7 @@ Below are some photos and explanations of some of my work.
     </div>
 </div>
 <div class="caption">
-    Early iteration of Windows GUI measurement view (left) and testing the finished camera mount schematic (right)
+    Early iteration of Windows GUI measurement view (left) and testing the finished camera, mount, & LED system (right)
 </div>
 
 <!-- 
