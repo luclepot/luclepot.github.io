@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D4NKPTT5BT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-D4NKPTT5BT');
+</script>
+
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="google-site-verification" content="NedxbWDApNwvrgL2-UYx1bBZ4J4AzKZ1_jDsGXnYro4" />
+
+<title>Luc  Le Pottier | Autoencoders for Semi-Visible Jet Detection</title>
+<meta name="description" content="Personal home page for university of michigan undergra Luc Le Pottier
+">
+
+<!-- Open Graph -->
+
+
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" integrity="sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q==" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+<!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons"> -->
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto:100,300,400,500,700|Material+Icons">
+
+<!-- Code Syntax Highlighting -->
+<link rel="stylesheet" href="https://gitcdn.link/repo/jwarby/jekyll-pygments-themes/master/github.css" />
+
+<!-- Styles -->
+<link rel="shortcut icon" href="/assets/img/favicon.ico">
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<link rel="canonical" href="/projects/autoencodeSVJ/">
+
+<!-- Theming-->
+
+
+    
+<!-- MathJax -->
+<script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js"></script>
+<script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+
+  </head>
+
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+    <div class="container">
+      
+      <a class="navbar-brand title font-weight-lighter" href="https://luclepot.github.io/">
+       Luc   Le Pottier
+      </a>
+      
+      <!-- Navbar Toogle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              about
+              
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/personal/">
+                personal
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/projects/">
+                projects
+                
+              </a>
+          </li>
+          
+          
+          
+          <li class="nav-item ">
+              <a class="nav-link" href="/publications/">
+                publications & presentations
+                
+              </a>
+          </li>
+          
+          
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+    <!-- Content -->
+
+    <div class="container mt-5">
+      <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Autoencoders for Semi-Visible Jet Detection</h1>
+    <p class="post-description">Ongoing research project with Annapaola de Cosa and Maurizio Pierini, in the University of Zurich CMS Group</p>
+  </header>
+
+  <article>
+    <p><strong>Contents</strong></p>
+<ul>
+  <li><a href="#overview">overview</a></li>
+  <li><a href="#personal-contributions">personal contributions</a></li>
+  <li><a href="#analysis">analysis</a></li>
+  <li><a href="#future-work">future work</a></li>
+</ul>
+
+<h2 id="overview"><strong>overview</strong></h2>
+
+<p><a href="https://arxiv.org/abs/1503.00009">Semi-visible jets</a> are a promising explanation for both the <strong>missing transverse momenta</strong> in proton-proton collisions at the LHC and for the <strong>nature and origin of Dark Matter</strong>. This theory admits new “dark sector” particles; however, such particles have a wide range of unconstrained parameters. Since dedicated searches across this large phase space can be impractical, we present here an <strong>unsupervised method for Semi-Visible jet detection, using neural autoencoders.</strong></p>
+
+<h2 id="personal-contributions"><strong>personal contributions</strong></h2>
+
+<p>I recieved funding for this project from both the <a href="https://ii.umich.edu/">University of Michigan International Institute</a> and the <a href="https://thinkswiss.org/research-scholarship/">Swiss Office of Science</a>. I lived in Geneva, Switzerland and worked at CERN during the Summer of 2019.</p>
+
+<p>While the idea of using neural autoencoders for this analysis was sparked by conversations with Annapaola de Cosa and Maurizio Pierini, I am the sole author of all work involved in this analysis. This includes</p>
+<ul>
+  <li>a ROOT C++ based data selection chain</li>
+  <li>a high-performance Python data processing chain</li>
+  <li>simultaneous Autoencoder training and testing frameworks, written in Python with Keras/Tensorflow</li>
+  <li>analysis and plotting of results, again in Python</li>
+</ul>
+
+<p>The code for this repository is given <a href="https://github.com/luclepot/autoencodeSVJ">here</a>; all code, plots, and results shown here are my work.</p>
+
+<p><strong>We plan to submit a paper on this work shortly</strong>, and this work was the subject of my (unfortunately canceled) <a href="https://meetings.aps.org/Meeting/MAR20/Session/C71.55"><strong>poster presentation at the March 2020 APS meeting</strong></a>.</p>
+
+<h2 id="analysis"><strong>analysis</strong></h2>
+
+<p>In the case we investigate for this analysis, we consider a hypothetical dark sector W-boson \(W^\prime\). For this particle, the chief unconstrained parameters are</p>
+
+<ol>
+  <li>the fraction of dark sector particles decaying back to the Standard Model \(r_{\text{inv}}\) and</li>
+  <li>the mass of the \(W^{\prime}\) boson</li>
+</ol>
+
+<p>Rather than deploy an ensemble of searches across a grid of possible combinations - as might be done in a traditional analysis - we make use of a neural autoencoder to estimate the QCD background in an unsupervised manner. We then evaluate this autoencoder over a wide range of signal parameters, and show that <strong>the autoencoder has excellent signal discovery across a range of signal parameters.</strong></p>
+
+<p>This is done by training autoencoders on a sample of pure background data by minimizing their reconstruction error for each jet (parameterized by Mean Squared Error). We then evaluate the AEs on mixed data/signal samples, and show that they are able to easily pick out signal from data.</p>
+
+<p>We represent each jet as a feature vector, comprised of 19 position, energy, and jet constituent variables. This also means that our AEs have 19 inputs/outputs, with some smaller bottleneck size. We determined the optimal bottleneck size to be 8 for this problem.</p>
+
+<p>The autoencoder architecture used in this analysis is shown below:</p>
+
+<div class="col justify-content-sm-center">
+    <img class="mx-auto rounded d-block z-depth-1 w-65" src="/assets/img/SVJ/autoencodeSVJ.png" alt="" title="meeting" />
+    <div class="caption">
+        Autoencoder architecture for this analysis
+    </div>
+</div>
+
+<p>The full analysis proceeds as follows:</p>
+
+<ol>
+  <li>
+    <p>Generate \(\mathcal{O}(10\text{ million})\) QCD background events and some number of SVJ signal events using Pythia</p>
+  </li>
+  <li>
+    <p>Perform a generic Semi-Visible Jet analysis selection on QCD and SVJ events, requiring high transverse momentum and close jets (efficiency for QCD \(\approx\)1%), using ROOT C++</p>
+  </li>
+  <li>
+    <p>Traverse selected events and save relevant jet features to <code class="language-plaintext highlighter-rouge">HDF5</code> format files, using Python</p>
+  </li>
+  <li>
+    <p>Train \(\mathcal{O}(100)\) identical neural autoencoders on the QCD dataset, and select the top 10% of those with the lowest reconstruction error (best convergence)</p>
+  </li>
+  <li>
+    <p>Evaluate the autoencoders on data and place cuts on their reconstruction errors at selected efficiencies (i.e. take only those jets with the highest 0.1% reconstruction error).</p>
+  </li>
+</ol>
+
+<p>Following this procedure, we can analyze the efficiency at various reconstruction error cut values for one of the selected autoencoders. This is used for all analyses below.</p>
+
+<p>The input and reconstructions distributions of the data are shown below. These include a set of Energy Flow Polynomials, which form a basis for describing jet substructure. We see from these distributions that in general, the reconstructions of SVJ signal are worse than the reconstructions of QCD background, implying that we will see some performance increase.</p>
+
+<p>Also shown are the reconstruction error distributions, which parameterize the total error across all features. As expected, we see that these are significantly higher in general than for the SVJ than the QCD.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-7 mt-4 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/SVJ/reconstruction_plot.png" alt="" title="Input and reconstructed variable distributions" />
+    </div>
+    <div class="col-sm-5 mt-4 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/SVJ/errors_recon_all.png" alt="" title="mean squared reconstruction error distributions" />
+    </div>
+</div>
+
+<div class="caption">
+    Input and reconstructed variable distributions (left) and mean squared reconstruction error distributions (right) for one of the selected autoencoders.
+</div>
+
+<p>To quantify the performance over a rance of MSE cuts, we show the relative significance increases and S/B ratios across a cut on the autoencoder MSE betweeen inputs and reconstructions. By observation, significance increases are ~6 in the maximum range, <strong>indicating excellent signal discovery.</strong></p>
+
+<div class="row">
+    <div class="col-sm mt-2 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/SVJ/sb_ratios_relsigs.png" alt="" title="Signal-to-background ratios and relative significance plots" />
+    </div>
+</div>
+<div class="caption">
+    Signal-to-background ratios and relative significance plots
+</div>
+
+<p>We can also examine the ROC curves and AUC scores for the average of the selected models across a range of signal models, indicating that performance is generally fairly good for all signal models. Note that in  general, higher \(r_{inv}\) signals yield lower AUC scores and performances. Also note that performance generally does not become good before very low acceptance fractions.</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-4 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/SVJ/roc_curve.png" alt="" title="ROC Curves" />
+    </div>
+    <div class="col-sm-6 mt-4 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/SVJ/best_ae_aucs10p_average.png" alt="" title="Autoencoder AUC values" />
+    </div>
+</div>
+<div class="caption">
+    ROC Curves and Audoencoder AUC values
+</div>
+
+<h2 id="future-work"><strong>future work</strong></h2>
+
+<p>While this work has shown significant promise in detecting Semi-Visible jet signals in an unsupervised fashion, there are a few possibilities which I have a particular interest in pursuing in the future.</p>
+
+<ul>
+  <li>
+    <p>Replacing autoencoders with other density estimators, such as <a href="https://papers.nips.cc/paper/2013/hash/53adaf494dc89ef7196d73636eb2451b-Abstract.html">RNADE</a> or <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.075042">ANODE</a></p>
+  </li>
+  <li>
+    <p>Testing how signal identification changes as signal is injected into the training sample, and after which point the AEs will learn the signal patterns</p>
+  </li>
+  <li>
+    <p>Testing the ability of neural autoencoders to learn detector defects and other experimental quirks; this would be done by programming “defective” hardware elements into our simulations. This gives purpose to the inclusion of jet position (\(\eta\) and \(\phi\)) in the jet features.</p>
+  </li>
+</ul>
+
+  </article>
+
+</div>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="fixed-bottom">
+  <div class="container mt-0">
+    &copy; Copyright 2021 Luc  Le Pottier.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+    
+    Last updated: February 26, 2021.
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+  <!-- Bootsrap & MDB scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js" integrity="sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw==" crossorigin="anonymous"></script>
+
+  
+<!-- Mansory & imagesLoaded -->
+<script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script defer src="/assets/js/mansory.js" type="text/javascript"></script>
+
+
+  
+
+
+
+<!-- Load Common JS -->
+<script src="/assets/js/common.js"></script>
+
+<!-- Load DarkMode JS -->
+<script src="/assets/js/dark_mode.js"></script>
+
+
+</html>
