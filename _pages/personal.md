@@ -49,11 +49,8 @@ nav: true
 
 </div>
 
-## quick info
+## stats thread
 
 * I am from Michigan
-* I have been playing instruments since I was in middle school, and consider it a really important part of my life
-* I believe that housing is a human right and actively participate in local organizing efforts to assert that right for both myself and others
-* I am really like housing cooperatives, and have lived in them for four years
-* I really like all kinds of skiing (downhill, x-country, backcountry)
-* I will never turn on the overhead light in a room if there is a lamp I could use instead
+* I like playing music
+* I like housing cooperatives
